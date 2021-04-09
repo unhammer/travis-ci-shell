@@ -39,3 +39,4 @@ Open terminal within your browser!
 
 <img src="https://github.com/mtojek/travis-ci-shell/blob/master/screenshots/scr-3.png" width="640px" />
 
+
